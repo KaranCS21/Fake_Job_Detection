@@ -86,6 +86,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- The dataset used in this project was obtained from [(https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)].
+- The dataset used in this project was obtained from [https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction].
 - Thanks to the contributors of open-source libraries such as pandas, numpy, nltk, scikit-learn, matplotlib, and seaborn.
 
